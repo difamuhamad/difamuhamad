@@ -3,11 +3,10 @@
 </div>
 
 <p>Hi there 👋 <br/>
-You can call me <b>difa</b>
-, feel free to invite me to your exciting projects—I’d be happy to be involved✨! 
+  Feel free to invite me to your exciting projects—I’d be happy to be involved✨! 
 </p>
-<li>Self-taught Learner</li>
-<li>Love Cat & Nature</li>
+<li>Performance Enthusiast</li>
+<li>Clean Code Advocate</li>
 
 ## Specialist on :
 
