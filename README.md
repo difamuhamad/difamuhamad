@@ -14,6 +14,8 @@
 <li>Fueled by a love for clean, scalable architecture design</li>
 <li>Deeply invested in optimizing systems for speed and scale</li>
 </div>
+</div>
+</p>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=difamuhamad&theme=dark&hide_border=false"
        alt="GitHub streak stats"
