@@ -1,5 +1,5 @@
 <div style="width: 100%; height: 250px; margin-bottom: 10px; overflow: hidden;">
-  <img src="https://www.brunoimbrizi.com/wp-content/uploads/2020/06/HJ2A2705.jpg"
+  <img src="https://github.com/user-attachments/assets/5f88141e-fbc0-492c-81df-01a413903100"
        alt="night-town"
        style="width: 100%; height: 100%; object-fit: cover;">
 </div>
