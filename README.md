@@ -6,17 +6,11 @@
 
 ##
 
-<div style="  display: flex; justify-content: space-between; align-items: flex-start; width: 100%; gap:10px; margin-bottom: 0px;">
-<div>
-  Feel free to invite me to your exciting projects—I’d be happy to be involved✨! 
-</p>
-<li>Clean Code & SOLID Principle Advocate</li>
-<li>Fueled by a love for clean, scalable architecture design</li>
-<li>Deeply invested in optimizing systems for speed and scale</li>
-</div>
-</div>
+<p>
+  Feel free to invite me to your exciting projects and collaborations,. I'd be happy to be involved ✨
 </p>
 
+<div align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=difamuhamad&theme=dark&hide_border=false"
        alt="GitHub streak stats"
        style="display: flex; 
@@ -31,13 +25,12 @@
 ## Specialist in:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,typescript,godot,lit,react,nuxt,tailwind,next,express,webpack,postgres,supabase,mongodb,nodejs,docker,&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=go,typescript,godot,lit,react,nuxt,tailwind,next,elysia,express,webpack,postgres,supabase,mongodb,docker,&theme=dark&perline=15" />
 </div>
 
 <!--
 **difaMuhamad/difaMuhamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 >>>>>>> master
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=difamuhamad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
