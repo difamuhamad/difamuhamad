@@ -1,8 +1,4 @@
-<div style="width: 100%; height: 250px; margin-bottom: 10px; overflow: hidden;">
-  <img src="https://github.com/user-attachments/assets/5f88141e-fbc0-492c-81df-01a413903100"
-       alt="night-town"
-       style="width: 100%; height: 100%; object-fit: cover;">
-</div>
+![Gensokyo 2077](https://github.com/user-attachments/assets/7456a401-ade4-45fc-b927-d6d3cdb2c54f)
 
 ##
 
@@ -11,14 +7,8 @@
 </p>
 
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=difamuhamad&theme=dark&hide_border=false"
-       alt="GitHub streak stats"
-       style="display: flex; 
-        align-items: flex-start;  
-        justify-content: center;
-        align-items: center;
-        margin-bottom: 0px;"
-       >
+
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=difamuhamad&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
 
 </div>
 
@@ -36,5 +26,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=difamuhamad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=difamuhamad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
